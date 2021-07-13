@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97565410158",
+    "project_id": "ride-hailing-system",
+    "storage_bucket": "ride-hailing-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97565410158:android:e60083dc1fb1690ee6777f",
+        "android_client_info": {
+          "package_name": "com.example.rhsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97565410158-7pagttovsrn6cl00oi8vqhaepmnp7rci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHySc3NEjFIrjJ08FGKGDHmXzLtbPzIio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97565410158-7pagttovsrn6cl00oi8vqhaepmnp7rci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
